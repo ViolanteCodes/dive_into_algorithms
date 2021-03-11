@@ -1,0 +1,3 @@
+/algovenv/
+*.env
+*.venv
