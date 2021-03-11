@@ -1,3 +1,4 @@
 /algovenv/
 *.env
 *.venv
+.ipynb_checkpoints
